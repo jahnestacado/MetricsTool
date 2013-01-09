@@ -1,6 +1,6 @@
 /**
  * Module        : LOC 
- * Author       : Ioannis Tzanelis 
+ * Authors       : Ioannis Tzanelis, Georgios Kalaitzoglou  
  * Description   : Calculates the total "clean" lines of code of a project                
  */
  

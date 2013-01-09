@@ -1,6 +1,6 @@
 /**
  * Module        : CC_UnitSize 
- * Author        : Ioannis Tzanelis 
+ * Authors       : Ioannis Tzanelis, Georgios Kalaitzoglou 
  * Description   : Calculates the Cyclomatic Complexity and Unit Size of a Project                
  */
 

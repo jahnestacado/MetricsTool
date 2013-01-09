@@ -1,6 +1,6 @@
 /**
  * Module        : Main
- * Author       : Ioannis Tzanelis 
+ * Authors       : Ioannis Tzanelis, Georgios Kalaitzoglou  
  * Description   : Calls the metric modules and prints the corresponding results
  *				   Also calculates ranking based on the SIG ranking scheme               
  */

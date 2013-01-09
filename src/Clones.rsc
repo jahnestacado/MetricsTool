@@ -1,6 +1,6 @@
 /**
  * Module        : Clones
- * Author        : Ioannis Tzanelis 
+ * Authors       : Ioannis Tzanelis, Georgios Kalaitzoglou 
  * Description   : Calculates the duplication percentage of a Project 
  * 				   We calculate the dulication as the percentage 
  *				   of all code that occurs more than once in equal 
